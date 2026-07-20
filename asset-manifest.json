@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Rupesh-DRK/portfolio-v2/static/css/main.7287a666.css",
+    "main.js": "/Rupesh-DRK/portfolio-v2/static/js/main.131f8a3d.js",
+    "static/js/453.1407b060.chunk.js": "/Rupesh-DRK/portfolio-v2/static/js/453.1407b060.chunk.js",
+    "static/media/ceremo.jpeg": "/Rupesh-DRK/portfolio-v2/static/media/ceremo.2fc86f15187fd5da18a4.jpeg",
+    "static/media/pro-pic.jpg": "/Rupesh-DRK/portfolio-v2/static/media/pro-pic.541d73f935e4f28fffeb.jpg",
+    "static/media/nimsme.png": "/Rupesh-DRK/portfolio-v2/static/media/nimsme.a9d9ae5211440abcaab9.png",
+    "static/media/Python.png": "/Rupesh-DRK/portfolio-v2/static/media/Python.dea924d737bb84eb9ce3.png",
+    "static/media/sql.png": "/Rupesh-DRK/portfolio-v2/static/media/sql.85fb38d6773862e917f4.png",
+    "static/media/besant.png": "/Rupesh-DRK/portfolio-v2/static/media/besant.2a2f6757bfa6f62467ed.png",
+    "static/media/HTML5.png": "/Rupesh-DRK/portfolio-v2/static/media/HTML5.49c79c687503629c1ac8.png",
+    "static/media/css,png.png": "/Rupesh-DRK/portfolio-v2/static/media/css,png.de88f6dc082cdf8bbe67.png",
+    "static/media/instagram.png": "/Rupesh-DRK/portfolio-v2/static/media/instagram.e719d8b29f452a16302d.png",
+    "static/media/java.png": "/Rupesh-DRK/portfolio-v2/static/media/java.51ba0ad588da2a38f8d2.png",
+    "static/media/bs.png": "/Rupesh-DRK/portfolio-v2/static/media/bs.b74e54d4897791a51840.png",
+    "static/media/django.png": "/Rupesh-DRK/portfolio-v2/static/media/django.1dd4a6731ff82c516038.png",
+    "static/media/whatsapp.png": "/Rupesh-DRK/portfolio-v2/static/media/whatsapp.c826b0165560636baf0b.png",
+    "static/media/js.png": "/Rupesh-DRK/portfolio-v2/static/media/js.ec1c0379d0e87cc38946.png",
+    "static/media/linkedin.png": "/Rupesh-DRK/portfolio-v2/static/media/linkedin.f249b38224ca41a0b909.png",
+    "static/media/logo.svg": "/Rupesh-DRK/portfolio-v2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Rupesh-DRK/portfolio-v2/index.html",
+    "main.7287a666.css.map": "/Rupesh-DRK/portfolio-v2/static/css/main.7287a666.css.map",
+    "main.131f8a3d.js.map": "/Rupesh-DRK/portfolio-v2/static/js/main.131f8a3d.js.map",
+    "453.1407b060.chunk.js.map": "/Rupesh-DRK/portfolio-v2/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7287a666.css",
+    "static/js/main.131f8a3d.js"
+  ]
+}
