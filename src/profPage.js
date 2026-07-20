@@ -33,7 +33,7 @@ export default function ProfPage() {
           <div className="hero-socials color-primary">
             <a
               className="social-icon"
-              href="https://in.linkedin.com/in/dappu-rupesh-kumar"
+              href="https://in.linkedin.com/in/rupesh-kumar-dappu"
               target="_blank"
               rel="noreferrer"
               aria-label="LinkedIn profile"

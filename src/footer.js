@@ -35,7 +35,7 @@ export default function Footer() {
             <div className="hero-socials">
               <a
                 className="social-icon"
-                href="https://in.linkedin.com/in/dappu-rupesh-kumar-07b8b3255"
+                href="https://in.linkedin.com/in/rupesh-kumar-dappu"
                 target="_blank"
                 rel="noreferrer"
                 aria-label="LinkedIn profile"
