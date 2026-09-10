@@ -18,9 +18,7 @@ function Menu() {
     <nav className="navbar" aria-label="Primary">
       <div className="navbar-inner">
         <a href="#home" className="navbar-brand" onClick={() => setOpen(false)}>
-          <span className="navbar-dots">
-            <span></span><span></span><span></span>
-          </span>
+          
           drk_rupesh_kumar
         </a>
 
