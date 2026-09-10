@@ -71,7 +71,7 @@ export default function ProfPage() {
         <div className="terminal" aria-hidden="true">
           <div className="terminal-titlebar">
             
-            <span className="terminal-titlebar-label">profile</span>
+            <div className="terminal-titlebar-label">  profile</div>
           </div>
           <div className="terminal-body">
             <div className="terminal-avatar-row">
